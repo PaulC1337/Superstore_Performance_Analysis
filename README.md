@@ -4,8 +4,11 @@ This repository contains an analysis of the Superstore dataset to uncover key pe
 
 Key Features:
 Return Rate Analysis: Visualized geographically to identify patterns by location.
+
 Profitability and Sales Performance: Examined across categories, regions, and customer segments.
+
 Interactive Dashboards: Published on Tableau Public for an engaging, shareable experience.
+
 Resources:
 Tableau Workbook: Superstore_performance.twb for advanced visualizations.
 Source Data: Sample - Superstore.xls containing raw data for analysis.
